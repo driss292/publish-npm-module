@@ -1,0 +1,18 @@
+{
+    "name": "@driss292/demo-module",
+    "version": "0.1.0",
+    "description": "test module creation",
+    "main": "./lib/index.js",
+    "types": "./lib/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "driss292",
+    "files": [
+        "lib/**/*"
+    ],
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.9.4"
+    }
+}
